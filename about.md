@@ -4,14 +4,11 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+I'm a software developer and I've been working a few years with Agile
+Development and Ruby on Rails applications.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+Currently I'm working remotely to a Web Hosting company called
+<a href="http://wwwh.com" target="_blank">WWWH</a>.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Do you want to know more about my work? Take a look at my
+<a href="http://br.linkedin.com/pub/rubem-carneiro/" target="_blank">LinkedIn</a>.

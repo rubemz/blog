@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Blogging"
+date: 2015-03-01 11:32:00
+categories: blog
+tags: blog
+image: /assets/article_images/2015-03-01-blogging/santiago.jpg
+---
+I'm creating this blog to share some tips and personal experiences related to
+my work as Software Developer.
+
+Beyond that, I'd also like to make public some pictures that me and my wife
+took in our trips. They will appear as covers images on the blog posts. I hope
+you enjoy them!
