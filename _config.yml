@@ -5,7 +5,7 @@ highlighter: pygments
 # Site settings
 title: "Rubem Nakamura"
 description: > # this means to ignore newlines until "email:"
-   Ruby, Rails e coisas
+   Ruby, Rails and stuff
 
 email: rubem.nakamura@gmail.com
 #blog logo
