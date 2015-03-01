@@ -11,4 +11,5 @@ Atualmente trabalho remotamente para uma empresa de web hosting chamada
 [WWWH](http://wwwh.com).
 
 Quer saber mais sobre o meu trabalho? Dá uma olhada no
-[LinkedIn](http://br.linkedin.com/pub/rubem-carneiro).
+<a href="http://br.linkedin.com/pub/rubem-carneiro/"
+target="_blank">LinkedIn</a>.
