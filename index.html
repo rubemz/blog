@@ -23,7 +23,7 @@ layout: default
             &nbsp;&nbsp;·&nbsp;&nbsp;
         {% endif %}
       {% endfor %}
-      <a href="/about/">About</a>
+      <a href="/sobre/">Sobre</a>
     </div>
 </header>
 
@@ -44,8 +44,9 @@ layout: default
               <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
             </section>
             <div class="post-meta">
-              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-  <!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
+              <time datetime="{{ post.date | date_to_long_string }}">
+                {{ post.date | localize: ":short" }}
+              </time>
             </div>
           </div>
         </article>
@@ -66,8 +67,9 @@ layout: default
               <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
             </section>
             <div class="post-meta">
-              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-<!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
+              <time datetime="{{ post.date | date_to_long_string }}">
+                {{ post.date | localize: ":short" }}
+              </time>
             </div>
           </div>
         </article>
@@ -89,9 +91,4 @@ layout: default
         {% endif %}
       {% endif %}
     </nav>
-
-
-    <!-- {{!! After all the posts, we have the previous/next pagination links }}
-    {{pagination}} -->
-
 </main>
