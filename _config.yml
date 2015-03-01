@@ -5,17 +5,17 @@ highlighter: pygments
 # Site settings
 title: "Rubem Nakamura"
 description: > # this means to ignore newlines until "email:"
-   Ruby, Rails e coisas
+   Blog
 
 email: rubem.nakamura@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/rubemnakamura.jpg"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/cover.jpg"
 
 name: 'Rubem Nakamura'
 author: 'Rubem Nakamura'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/rubemnakamura.jpg"
 
 paginate:	5
 
@@ -27,7 +27,7 @@ social:
   - icon:	twitter
     url:	https://twitter.com/rubemz
     desc: Follow me on twitter
-    share_url: http://twitter.com/rubemz
+    share_url: https://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
 

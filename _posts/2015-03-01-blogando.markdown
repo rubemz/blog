@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Blogando"
+date: 2015-03-01 11:32:00
+categories: blog
+tags: blog
+image: /assets/article_images/2015-03-01-blogging/santiago.jpg
+---
+Estou criando esse blog com o propósito de compartilhar algumas dicas
+e experiências pessoais com relação ao meu trabalho de desenvolvedor de
+software.
+
+Além disso, tornar públicas algumas fotos que eu e a minha querida esposa tiramos em
+nossas viagens. Elas vão aparecer como *covers* dos *posts*. Espero que
+gostem!
