@@ -7,9 +7,13 @@ tags: blog
 image: /assets/article_images/2015-03-01-blogging/santiago.jpg
 ---
 Estou criando esse blog com o propósito de compartilhar algumas dicas
-e experiências pessoais com relação ao meu trabalho de desenvolvedor de
+e experiências pessoais com relação ao meu trabalho como desenvolvedor de
 software.
 
 Além disso, tornar públicas algumas fotos que eu e a minha querida esposa tiramos em
 nossas viagens. Elas vão aparecer como *covers* dos *posts*. Espero que
 gostem!
+
+O blog foi gerado usando o Jekyll e ele é open-source! Se quiserem dar uma
+espiada clique <a href="https://github.com/rubemz/blog"
+target="_blank">aqui</a>.
