@@ -19,7 +19,7 @@ author_image: "/assets/images/rubemnakamura.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://rubemnakamura.com.br"
 baseurl: ""
 
 # social icons and sharing options
