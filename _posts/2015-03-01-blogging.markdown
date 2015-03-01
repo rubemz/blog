@@ -12,3 +12,6 @@ my work as Software Developer.
 Beyond that, I'd also like to make public some pictures that me and my wife
 took in our trips. They will appear as covers images on the blog posts. I hope
 you enjoy them!
+
+This blog was generated using Jekyll and it is open source! If you want to take
+a look click <a href="https://github.com/rubemz/blog" target="_blank">here</a>.
