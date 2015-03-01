@@ -14,6 +14,6 @@ Além disso, tornar públicas algumas fotos que eu e a minha querida esposa tira
 nossas viagens. Elas vão aparecer como *covers* dos *posts*. Espero que
 gostem!
 
-O blog foi gerado usando o Jekyll e ele é open-source! Se quiserem dar uma
+O blog foi gerado usando o Jekyll e ele é *open source*! Se quiser dar uma
 espiada clique <a href="https://github.com/rubemz/blog"
 target="_blank">aqui</a>.
