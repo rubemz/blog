@@ -5,6 +5,8 @@ date: 2015-03-01 11:32:00
 categories: blog
 tags: blog
 image: /assets/article_images/2015-03-01-blogging/santiago.jpg
+meta_description: "Rubem Nakamura's blog. Why I am blogging."
+meta_tags: "rubem, nakamura, blog, why, travel, developer"
 ---
 I'm creating this blog to share some tips and personal experiences related to
 my work as Software Developer.
