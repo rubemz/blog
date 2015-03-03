@@ -7,6 +7,9 @@ title: "Rubem Nakamura"
 description: > # this means to ignore newlines until "email:"
    Blog
 
+# SEO
+meta_description: "Rubem Nakamura Blog. Ruby, Rails e assuntos diversos"
+
 email: rubem.nakamura@gmail.com
 #blog logo
 logo: "/assets/images/rubemnakamura.jpg"

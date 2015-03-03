@@ -5,6 +5,8 @@ date: 2015-03-01 11:32:00
 categories: blog
 tags: blog
 image: /assets/article_images/2015-03-01-blogging/santiago.jpg
+meta_description: "Primeiro post do blog. Porque estou blogando."
+meta_tags: "rubem, nakamura, blog, post, porque, viagens"
 ---
 Estou criando esse blog com o propósito de compartilhar algumas dicas
 e experiências pessoais com relação ao meu trabalho como desenvolvedor de

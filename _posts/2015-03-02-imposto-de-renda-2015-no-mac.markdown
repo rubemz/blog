@@ -5,6 +5,9 @@ date: 2015-03-02 19:30:00
 categories: irpf
 tags: irpf, mac, osx
 image: /assets/article_images/2015-03-02-imposto-de-renda-2015-no-mac/pinguins.jpg
+meta_description: "Algumas dicas para instalar o IRPF 2015 e declara o imposto
+de renda no Mac OS"
+meta_tags: "irpf 2015, java, mac, os x, jre, jdk, problemas"
 ---
 A compatibilidade do programa para declaração do imposto de renda com o Mac OS
 não é das melhores. Então aqui vão algumas dicas para não se perder muito

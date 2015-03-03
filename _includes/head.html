@@ -6,7 +6,16 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{{ site.description }}" />
+
+  {% if page.meta_description %}
+    <meta name="description" content="{{ page.meta_description }}" />
+  {% else %}
+    <meta name="description" content="{{ site.meta_description }}" />
+  {% endif %}
+
+  {% if page.meta_tags %}
+    <meta name="keywords" content="{{ page.meta_tags }}">
+  {% endif %}
 
   <meta name="HandheldFriendly" content="True" />
   <meta name="MobileOptimized" content="320" />
