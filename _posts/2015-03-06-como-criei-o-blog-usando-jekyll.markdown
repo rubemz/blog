@@ -8,6 +8,7 @@ image: /assets/article_images/2015-03-06-como-criei-o-blog-usando-jekyll/ushuaia
 meta_description: "Como criei este blog usando jekyll "
 meta_tags: "jekyll, blog, como criei, i18n, internationalization, jekyll, português,
 portugues, markdown"
+comments: true
 ---
 Já fazia algum tempo que eu estava procurando uma maneira rápida e prática de blogar.
 E acabei achando um

@@ -25,6 +25,8 @@ paginate:	5
 url: "http://rubemnakamura.com.br"
 baseurl: ""
 
+language: "pt_BR"
+
 # social icons and sharing options
 social:
   - icon:	twitter
